@@ -11,6 +11,7 @@ const REPORTS = new Set([
 	"Employee Provident Fund Register",
 	"ESIC Register",
 	"LWF Register",
+	"Provident Fund Deductions",
 ]);
 
 const PAGES = new Set(["tax-regime-selector"]);
