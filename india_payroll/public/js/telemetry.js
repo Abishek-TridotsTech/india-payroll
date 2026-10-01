@@ -12,6 +12,7 @@ const REPORTS = new Set([
 	"ESIC Register",
 	"LWF Register",
 	"Provident Fund Deductions",
+	"Professional Tax Deductions",
 ]);
 
 const PAGES = new Set(["tax-regime-selector"]);

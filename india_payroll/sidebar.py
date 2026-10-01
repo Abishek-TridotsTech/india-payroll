@@ -50,6 +50,7 @@ SIDEBAR_LINKS = {
 				link("Report", "ESIC Register"),
 				link("Report", "LWF Register"),
 				link("Report", "Provident Fund Deductions"),
+				link("Report", "Professional Tax Deductions"),
 			],
 		},
 	],
